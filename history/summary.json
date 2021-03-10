@@ -4,9 +4,9 @@
     "url": "https://backu.fr",
     "icon": "https://favicons.githubusercontent.com/backu.fr",
     "slug": "backu-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 947,
     "timeMonth": 863,
     "timeYear": 876,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-10": 0
+    }
   },
   {
     "name": "Backu.net",
